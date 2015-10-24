@@ -1,0 +1,48 @@
+.header-navigation {
+  background-color: brown;
+  height: 80px;
+  width:100%;
+  position: fixed;
+  z-index: 999;
+}
+
+.container {
+
+}
+
+#imageBible {
+  margin-top: 100px;
+  margin-left: 100px;
+}
+
+.nav, .nav-tabs {
+    margin-top: 90px;
+}
+
+.font1 {
+    font-family: sans-serif;
+    text-shadow: 1px 1px 1px #000;
+}
+
+.bible-logo {
+    width: 70px;
+    height: 50px;
+    padding: 10px;
+    margin: 10px;
+}
+
+td {
+    padding: 10px;
+}
+
+div.resultAll {
+    margin-top: 100px;
+    position: absolute;
+    right:0;
+   
+}
+
+.resultgenesisRead {
+  height: 500px;
+  overflow: scroll;
+}
